@@ -29,3 +29,10 @@ A smart app to help you log in with Google and schedule meetings with ease.
 cd client
 npm install
 npm start
+💡 Future Enhancements
+
+🧠 NLP-based preference parser (e.g., "No meetings before 10am")
+🔔 Email and SMS reminders
+🗓️ Support for Outlook/Office 365
+📊 Analytics dashboard for meeting history & trends
+
